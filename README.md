@@ -12,10 +12,10 @@
 
 <p align="center">
   <a href="https://github.com/zinping/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=zinping&show_icons=true&theme=react-dark&card_width=350&rank_icon=github" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=zinping&show_icons=true&theme=gotham&card_width=350&rank_icon=github" />
   </a>
   <a href="https://github.com/zinping/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ffflabs&layout=compact&langs_count=8&card_width=350&theme=react-dark" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ffflabs&layout=compact&langs_count=8&card_width=350&theme=gotham" />
   </a>
 </p>
 
