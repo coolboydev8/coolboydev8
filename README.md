@@ -12,16 +12,16 @@
 
 <p align="center">
   <a href="https://github.com/zinping/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=zinping&show_icons=true&theme=gotham&card_width=350&rank_icon=github" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=zinping&show_icons=true&theme=radical&card_width=350&rank_icon=github" />
   </a>
   <a href="https://github.com/zinping/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ffflabs&layout=compact&langs_count=8&card_width=350&theme=gotham" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ffflabs&layout=compact&langs_count=8&card_width=350&theme=radical" />
   </a>
 </p>
 
 #
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=coolboydev8&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="James Cross's activity graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=coolboydev8&theme=merko&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="James Cross's activity graph">
 </p>
 
 </p>
