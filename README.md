@@ -1,6 +1,6 @@
 <h1 align="center">👋Hi, I'm CoolBoyDev8 who is always learnig new Things.</h1>
 <hr />
-<h3 align="center">Full Stack Engineer & OpenAI API Integration | Bot Development | Tradingview</h3>
+<h3 align="center">Full Stack Engineer & OpenAI API Integration | Bot Development | Bubble.io | Tradingview</h3>
 
 <br />
 
